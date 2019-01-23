@@ -1,4 +1,4 @@
-Default_EDA.ipynb:
+**Default_EDA.ipynb**:
 
 This notebook contains all the code for data importing, data cleaning, data wrangling, exploratory data analysis, visualization, statistical tests.
 
